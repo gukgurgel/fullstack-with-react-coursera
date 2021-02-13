@@ -12,6 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.0.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
     "jquerry": "^0.0.1-security",
     "popper.js": "^1.16.1"
   },
