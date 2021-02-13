@@ -1,0 +1,5 @@
+In order to run this assignment you need to have npm installed and run:
+
+npm install
+
+npm start
