@@ -4,9 +4,9 @@
 }
 
 
-.row-content {
-    margin: 0px auto;
-    padding: 50px 0px 50px 0px;
+.info-section {
+    padding-top: 50px;
+    padding-bottom: 50px;
     border-bottom: 1px ridge rgba(0,0,0,.3);
     min-height: 400px;
     
