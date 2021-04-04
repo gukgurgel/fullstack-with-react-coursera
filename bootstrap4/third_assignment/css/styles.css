@@ -61,3 +61,7 @@ body {
     left: 0;
     min-height: 300px;
 }
+
+.modal label,h5 {
+    color: black;
+}
